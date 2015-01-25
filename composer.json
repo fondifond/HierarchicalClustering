@@ -1,0 +1,23 @@
+{
+    "name":"fondifond/hierarchical-clustering",
+    "type":"library",
+    "description":"Hierarchical Clustering library for PHP",
+    "keywords":["clustering","graphs"],
+    "version":"0.1",
+    "authors":[
+        {
+            "name":"Gasanenko Denis",
+            "email":"fondifonds@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload":{
+        "psr-4":{
+            "HierarchicalClustering\\":"src/",
+            "HierarchicalClustering\\Distances\\":"src/Distances",
+            "HierarchicalClustering\\Links\\":"src/Links"
+        }
+    }
+}
