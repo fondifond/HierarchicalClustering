@@ -1,5 +1,5 @@
 <?php
-
+// second version
 require_once 'vendor/autoload.php';
 
 use \HierarchicalClustering\Clustering;
