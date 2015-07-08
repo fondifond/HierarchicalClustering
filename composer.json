@@ -3,7 +3,7 @@
     "type":"library",
     "description":"Hierarchical Clustering library for PHP",
     "keywords":["clustering","graphs"],
-    "version":"0.1",
+    "version":"v0.0.3",
     "authors":[
         {
             "name":"Gasanenko Denis",
